@@ -86,7 +86,7 @@ class HomeScreen extends StatelessWidget {
             runSpacing: 24,
             children: [
               _buildAnnouncementCard('Admissions Open 2026', 'Applications are now open for all BE, M.Tech, and MBA programs for the upcoming academic year.'),
-              _buildAnnouncementCard('NAAC Accreditation', 'JNNCE has been re-accredited with an 'A' grade by the National Assessment and Accreditation Council.'),
+              _buildAnnouncementCard('NAAC Accreditation', "JNNCE has been re-accredited with an 'A' grade by the National Assessment and Accreditation Council."),
               _buildAnnouncementCard('Placement Drive', 'Upcoming mega placement drive involving over 50 top IT and core engineering companies.'),
             ],
           ),
